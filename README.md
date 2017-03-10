@@ -1,3 +1,2 @@
 # git
-Git project
-edit
+Project demo
